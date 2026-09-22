@@ -7,7 +7,7 @@ window.HARDWARE_ERP_CONFIG = {
   appName: 'Hardware ERP',
   demoMode: false,
   supabaseUrl: 'https://zcfxmrhcttkyzofhmntd.supabase.co',
-  supabasePublishableKey: 'PASTE_YOUR_SUPABASE_PUBLISHABLE_KEY_HERE',
+  supabasePublishableKey: 'sb_publishable_lVFjvEJRoosuZ7yj2jlQ0g_S00TMufv',
   currency: 'LKR',
   locale: 'en-LK',
   defaultTenant: 'tenant-demo',
